@@ -1,0 +1,8 @@
+{
+  "name": "Maa Ke Haath Ka Swaad - AI Cooking Assistant",
+  "description": "A warm, patient AI cooking companion designed specifically for moms and home cooks, featuring voice guidance and ingredient recognition.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
